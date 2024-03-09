@@ -1,4 +1,4 @@
-# Animated Template
+# [LIVE DEMO](https://shcoobz.github.io/animated-template/) -> Animated Template
 
 ![Project Image](/img/animated-template.png)
 
