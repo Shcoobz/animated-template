@@ -4,7 +4,7 @@
 
 ## Summary
 
-Welcome to Animated Template! This application is a dynamic and visually engaging web template designed to provide an immersive user experience through the use of animations and transitions. It features a user-friendly interface, seamless navigation, and interactive elements that bring content to life.
+Animated Template is a dynamic and visually engaging web template designed to provide an immersive user experience through the use of animations and transitions. It features a user-friendly interface, seamless navigation, and interactive elements that bring content to life.
 
 The core functionality includes:
 
