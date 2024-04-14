@@ -1,6 +1,6 @@
-# [LIVE DEMO](https://shcoobz.github.io/animated-template/) -> Animated Template
+# basicJS_Animated Template: [LIVE DEMO](https://shcoobz.github.io/basicJS_animated-template/)
 
-![Project Image](/img/animated-template.png)
+![Project Image](/img/basicJS_animated-template.png)
 
 ## Summary
 
