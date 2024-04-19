@@ -1,6 +1,6 @@
-# basicJS_Animated Template: [LIVE DEMO](https://shcoobz.github.io/basicJS_animated-template/)
+# basicJS_tailwind_animated-template: [LIVE DEMO](https://shcoobz.github.io/basicJS_tailwind_animated-template/)
 
-![Project Image](/img/basicJS_animated-template.png)
+![Project Image](/img/basicJS_tailwind_animated-template.png)
 
 ## Summary
 
