@@ -44,4 +44,4 @@ Built on the Tailwind CSS framework, the template is fully responsive and ensure
 
 _Note: This document provides an overview of the Animated Template. For detailed instructions and more information, please refer to the source code documentation._
 
-This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/react_tailwind_animated-template). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability.
+This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/advancedJS_tailwind_animated-template). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability.
